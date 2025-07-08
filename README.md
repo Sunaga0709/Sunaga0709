@@ -3,6 +3,11 @@
 <img width="104" alt="professional-cloud-developer-3" src="https://github.com/user-attachments/assets/65a2c225-c590-46a4-a336-0944db1de1fa">
 <img width="104" alt="professional-cloud-architect-3" src="https://github.com/user-attachments/assets/be88ba34-dba6-4a62-90d4-1f7f470b2be0" />
 <img width="104" alt="professional-data-engineer-3" src="https://github.com/user-attachments/assets/51f507e3-e6e6-4552-b181-5fe850da24b9" />
+<img width="104" alt="professional-cloud-devops-engineer-5" src="https://github.com/user-attachments/assets/fb36ace4-c87c-49e0-834f-0ad3b3ba060f" />
+
+
+
+
 
 
 
